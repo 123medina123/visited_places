@@ -10,5 +10,11 @@ li{
 
 body{
   background-color: rgba(76, 175, 80, 0.3) ;
+  max-height: 100vh;
+  text-align: center;
+}
 
+img{
+  max-height: 750px;
+  width: auto;
 }
