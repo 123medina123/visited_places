@@ -1,0 +1,14 @@
+h1,h2,h3,h4{
+  max-width: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+li{
+  list-style: none;
+  margin-bottom: 7px;
+}
+
+body{
+  background-color: rgba(76, 175, 80, 0.3) ;
+
+}
